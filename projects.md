@@ -10,11 +10,10 @@ This is a collection of some personal projects I've worked on that are easily vi
 
 ## 1. Flask ML API : Salary Predictor App
 Code : [SalaryPredictApp](!https://github.com/imSrbh/DeployML-Flask/tree/master/SalaryPredictApp)  
-In this project we are simply going to train a simple Linear Regression for salary prediction using scikit-learn and then create a flask web app.
-
-In this project there are core three files :
-model.py : We are gonna develop and train our model.
-server.py : We will code to handle POST requests and return the results.
-request.py : and Finally, we will send the requests with the features with the server and recieve the results
+In this project we are going to train a simple Linear Regression for salary prediction using scikit-learn and then create a flask web app.
+There are core three files in the code repo:  
+model.py : We are gonna develop and train our model.    
+server.py : We will code to handle POST requests and return the results.  
+request.py : and Finally, we will send the requests with the features with the server and recieve the results  
 ---
 
