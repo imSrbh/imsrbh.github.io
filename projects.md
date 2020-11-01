@@ -10,7 +10,7 @@ This is a collection of some personal projects I've worked on that are easily vi
 ___
 ## 1. Flask ML API : Salary Predictor App
 Code : [SalaryPredictApp](https://github.com/imSrbh/DeployML-Flask/tree/master/SalaryPredictApp)  
-In this project we are going to train a simple Linear Regression for salary prediction using scikit-learn and then create a flask web app.
+In this project, a simple Linear Regression has been trained for salary prediction using scikit-learn and then a flask web app created.
 There are core three files in the code repo:  
 _model.py_ : We are gonna develop and train our model.    
 _server.py_ : We will code to handle POST requests and return the results.  
