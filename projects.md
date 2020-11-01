@@ -16,5 +16,4 @@ _model.py_ : We are gonna develop and train our model.
 _server.py_ : We will code to handle POST requests and return the results.  
 _request.py_ : and Finally, we will send the requests with the features with the server and recieve the results.  
 ___
----
 
