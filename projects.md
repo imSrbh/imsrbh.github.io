@@ -19,7 +19,7 @@ _request.py_ : and Finally, we will send the requests with the features with the
 ## 2. Setting UP JupyterHub using Docker
 Repo : [TLJH_Docker](git clone https://github.com/imSrbh/TLJH_Docker.git)  
 In this project, I had setup a JupyterHub on the local server using docker and docker-compose. Once the setup is completed Admin can create multiple user with basic authentication and multiple user can work on the data recides on that server. This is purely containerized application.  
-Here you can find detailed user-guide : [Blog](https://imsaurabh.me/SettingUPtljh/)
+Here you can find detailed User Guide : [Blog](https://imsaurabh.me/SettingUPtljh/)
 
 ___  
 
