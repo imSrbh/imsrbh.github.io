@@ -23,7 +23,7 @@ Here you can find detailed User Guide : [Blog](https://imsaurabh.me/SettingUPtlj
 
 
 ## 3. Building a Happiness detector using Haar Cascade
-Repo : [Happiness-Detector](https://github.com/imSrbh/Happiness-Detector.git)
+Repo : [Happiness-Detector](https://github.com/imSrbh/Happiness-Detector.git)  
 Building an AI that sees emotions can be highly valuable in some markets. Imagine if you were able to detect people's emotions when they are watching movies. That would have very strong impact to the cinema industry and bring significant added value to companies like Netflix or Time Warner for which you could build powerful recommender systems based on Computer Vision applications able to understand emotions.
 
 ___  
