@@ -6,10 +6,9 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I was working as an Intelligent Video Analytics Engineer @ **SmartCow AI Technologies Pvt. Ltd, Hyderabad** , worked closely with the team to create cities smarter and providing affordable AI at the Edge🏢. 
+I am working as a Software Developer @ **Euclid Innovations, Hyderabad**
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
 
-I am actively looking for new opportunities in the field of **AI/ML, Deep Learning, Computer Vision and Cloud Services (AWS, GCP)**.
 
 
 - **Responsibilities include:**
@@ -23,16 +22,22 @@ I am actively looking for new opportunities in the field of **AI/ML, Deep Learni
 
 
 ### Work Experience
+- **SmartCow AI Technologies Pvt. Ltd (IVA Engineer), Hyderabad**  
+    - Explored and tested NVIDIA Deepstream plugins.
+    - Managed Edge device to AWS Cloud services.
+    - Written few technical blogs [Link](https://medium.com/@Smartcow_ai/leveraging-nvidias-nvdsanalytics-plugin-for-entry-exit-people-count-8f2d19217746)
+
 - **SmartCow AI Technologies Pvt. Ltd (IVA Intern), Hyderabad**  
     - Worked as an Intelligent Video Analytics Intern (AI at the Edge)
     - Learned and worked on various technoligies like AWS, CUDA, GStreamer, NVIDIA Jetson Platform, Deepstream etc.
+    - written a thesis on **"Affordaable AI at the Edge on NVIDIA's Jetson Ecosystem"**
 - **CodeVector Labs LLP (AI Research Intern), Raipur**  
     - Worked as an Intern (AI in Sports)
     - Worked on Object Detection(YOLO) , Object Segmentation(R-CNN, Mask R-CNN) and other computer vision techniques for our custom dataset (Annotated own dataset to train YOLO object detection model) in Sports.
     - Developed various POCs.
     - Achieved **[Star of the Month Award - October 2019](https://www.linkedin.com/posts/codevector-ai-labs_cvlabs-ai-activity-6591922751697707008-xnmb)** for excellent work delivery.
-- **Image Processing Lab (Computer Vision Research Intern), Prayagraj**  
-    - Implemented various traditional computer vision algorithms and gone through various research papers.
+- **Image Processing Lab (Computer Vision Research Intern), MNNIT Allahabad**  
+    - Implemented various traditional computer vision algorithms and gone through various research papers on object detection.
     - Implemented Object Detection
 - **National Health Mission Chhattisgarh (Android Developement Intern), Naya Raipur**  
     - With the help of team developed a health awareness hindi android app *Hamar Swasthya* which serves information related to recent prevalent
