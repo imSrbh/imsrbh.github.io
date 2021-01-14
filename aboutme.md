@@ -6,7 +6,7 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am working as a Software Developer @ **Euclid Innovations, Hyderabad**
+I am working as a Software Developer @ **Euclid Innovations, Hyderabad**.
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
 
 
