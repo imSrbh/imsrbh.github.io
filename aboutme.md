@@ -6,7 +6,7 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am working as a Software Developer @ **Euclid Innovations, Hyderabad**.
+I am working as a Member of Technical Staff -I R&D @ **Mavenir, Bangalore**.
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
 
 
@@ -22,6 +22,10 @@ I have completed B.Tech in the dept. of Computer Science And Engineering @ **III
 
 
 ### Work Experience
+- **Mavenir Member of Technical Staff -I R&D, Bangalore**  
+    - Developing Intelligent Video Analytics Platform.  
+    - Training models with custom data using Transfer learning (TAO) for DetectNet_v2/YoloV4/SSD and various other frameworks for eg. Darknet.
+
 - **SmartCow AI Technologies Pvt. Ltd (IVA Engineer), Hyderabad**  
     - Explored and tested NVIDIA Deepstream plugins.
     - Managed Edge device to AWS Cloud services.
@@ -54,8 +58,8 @@ disease, healthcare suggestion etc using Google's Firebase as the database.
 ## Skills
 
 * **Programming Language:** C++, C, Shell, Python
-* **Tools:** LaTeX, Git, MATLAB, Jupyter, Docusaurus, Docker, Git
-* **Frameworks:** Tensorflow, CUDA, Android Studio, Firebase
+* **Tools:** LaTeX, Git, MATLAB, Jupyter, Docusaurus, Docker, Git, Kubernetes
+* **Frameworks:** Deepstream SDK, TAO/TLT, Tensorflow, CUDA, Android Studio, Firebase
 * **Libraries:** OpenCV, Keras, Learning pyTorch
 * **A Bit of Front-End Development:** JSX, HTML, CSS
 
