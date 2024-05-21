@@ -102,3 +102,12 @@
 .post-preview .post-entry {
   display: none;
 }
+
+#fh5co-started .text-center {
+  text-align: center;
+}
+
+#fh5co-started .btn {
+  display: block;
+  margin: 0 auto;
+}
