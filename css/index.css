@@ -104,10 +104,10 @@
 }
 
 #fh5co-started .text-center {
-  text-align: center;
+  text-align: match-parent;
 }
 
-#fh5co-started .btn {
+/* #fh5co-started .btn {
   display: block;
   margin: 0 auto;
-}
+} */
