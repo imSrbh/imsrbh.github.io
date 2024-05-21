@@ -30,20 +30,17 @@ I have completed B.Tech in the dept. of Computer Science And Engineering @ **III
     - JEKA: Developed a Persona-based RAG platform leveraging Prompt engineering techniques along with OpenAI APIs and Open Source LLMs for context-aware responses.
     - JARVIS: An accelerated ML development platform based on ClearML, ensuring faster ROI for AIML projects.  
   
----
 
 - **Mavenir (MTS-I R&D), Bangalore**  
     - [IVA Platform](https://www.mavenir.com/portfolio/mavedge/intelligent-video-analytics-iva/) : Played a pivotal role in developing the AI-backend for an IVA Platform built on NVIDIA’s technology stack, writing DeepStream Python applications to address object detection challenges and enhance video analytics.  
     - Conducted model training with custom data using Transfer Learning (TAO) for various architectures like DetectNetV2, YoloV4, SSD, and Darknet, achieving improved object detection capabilities.  
 
----
 
 - **Euclid Innovations (AI Software Developer), Bangalore**  
     - [CAML](https://caml.live/) : Worked with AI backend team to build this Customizable, plug and play, Computer Vision platform that can integrate with any cameras to provide real-time spatial, behavior, and cognitive analytics with actionable insights.  
     - Worked on end to end Dockerization of the project, researching cutting edge technology by NVIDIA and Facebook, building POCs and working with Deepstream on high end dGPU systems  
     - Achieved latency reduction by implementing H.264 encoding of inference frames from JPEG frames and optimizing the existing pipeline.   
 
----
 
 - **SmartCow.ai (IVA Engineer), Hyderabad**  
     - Explored and tested NVIDIA Deepstream plugins.
@@ -53,7 +50,7 @@ I have completed B.Tech in the dept. of Computer Science And Engineering @ **III
     - Learned and worked on various technoligies like AWS, CUDA, GStreamer, NVIDIA Jetson Platform, Deepstream etc.
     - written a thesis on **"Affordaable AI at the Edge on NVIDIA's Jetson Ecosystem"**  
 
----
+
 
 - **CodeVector Labs LLP (AI Research Intern), Raipur**  
     - Worked as an Intern (AI in Sports)
@@ -61,13 +58,12 @@ I have completed B.Tech in the dept. of Computer Science And Engineering @ **III
     - Developed various POCs.
     - Achieved **[Star of the Month Award - October 2019](https://www.linkedin.com/posts/codevector-ai-labs_cvlabs-ai-activity-6591922751697707008-xnmb)** for excellent work delivery.  
 
----
+
 
 - **Image Processing Lab (Computer Vision Research Intern), MNNIT Allahabad**  
     - Implemented various traditional computer vision algorithms and gone through various research papers on object detection.
     - Implemented Object Detection  
   
----
 
 - **National Health Mission Chhattisgarh (Android Developement Intern), Naya Raipur**  
     - With the help of team developed a health awareness hindi android app *Hamar Swasthya* which serves information related to recent prevalent
