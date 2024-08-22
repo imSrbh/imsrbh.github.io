@@ -6,7 +6,7 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am working as a AI/ML Engineer @ **JKTech, Bangalore**.
+I am working as a Senior Consultant -  Data Science @ **JKTech, Bangalore**.
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
 - Experienced AIML Application Developer with around 4 years of expertise in cutting-edge AI technologies, skilled in end-to-end development and deployment with good hands-on experience.  
 - Specialized in developing end-to-end GenAI RAG engines for enterprise search applications, incorporating Knowledge Graphs and Vector Databases for enhanced performance with OpenAI/Gemini APIs and open-source LLMs, employing Prompt Engineering best practices to deliver context-aware responses.  
