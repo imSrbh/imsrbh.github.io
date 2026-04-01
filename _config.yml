@@ -4,7 +4,7 @@
 title: Saurabh Kumar Singh
 
 # Short description of your site
-description: Virtual presence gets you recognised easily.
+description: Senior Data Scientist @ Deloitte | GenAI | Machine Learning | Deep Learning | Computer Vision
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -25,6 +25,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/saurabh-kumar-singh-006947128/"
+    - GitHub: "https://github.com/imSrbh"
     - Resume: "https://drive.google.com/file/d/1x2tR6xzyMWiorMDHcK6Hmmwu7y1joojq/view?usp=sharing"
 
     #https://drive.google.com/file/d/1PQC5MUKHuy_i8J0dW-M8ZW8CYRaTrpFa/view?usp=sharing

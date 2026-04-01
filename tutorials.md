@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hi, Saurabh Here"
-subtitle: IVA Intern / Extreme Traveller
+title: "Tutorials & Blogs"
+subtitle: ML Engineer | Data Scientist | GenAI Engineer
 css: "/css/index.css" 
 ---
 
