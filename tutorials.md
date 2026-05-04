@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tutorials & Blogs"
-subtitle: ML Engineer | Data Scientist | GenAI Engineer
+subtitle: AIML Application Developer | GenAI | Data Scientist
 css: "/css/index.css" 
 ---
 

@@ -11,6 +11,11 @@ ___
 
 ## GenAI & LLM Projects
 
+### Context Aware Chatbot with Unstructured/Structured Data
+Code: [Custom AI ChatBot](https://github.com/imSrbh/CustomAICHatBot)  
+• Utilized SQLAlchemy as the data connector for both SQL and BigQuery databases, enabling the generation of SQL queries for given natural language input queries, leveraging llama-index capabilities.  
+• Created analyzer charts and natural language responses based on the generated SQL output and OpenAI's APIs and VectorDB to facilitate chatbot interactions with unstructured data.  
+
 ### Image Similarity Search using CLIP Model
 Code: [ImageSimilaritySearch](https://github.com/imSrbh/ImageSimilaritySearch)  
 • Leveraged OpenAI's CLIP model to build an image search application that allows users to search for images based on text descriptions.  
@@ -20,11 +25,6 @@ Code: [ImageSimilaritySearch](https://github.com/imSrbh/ImageSimilaritySearch)
 Code: [MetaformsAISurvey](https://github.com/imSrbh/MetaformsAISurvey)  
 • Streamlit application that generates goals and survey questions using OpenAI's GPT model.  
 • Users can input a persona and domain to generate goals, then create survey questions across multiple iterations with organized, expandable output sections.  
-
-### Context Aware Chatbot with Unstructured/Structured Data
-Code: [Custom AI ChatBot](https://github.com/imSrbh/CustomAICHatBot)  
-• Utilized SQLAlchemy as the data connector for SQL and BigQuery databases, generating SQL queries from natural language input using llama-index.  
-• Created analyzer charts and natural language responses based on SQL output, with OpenAI APIs and VectorDB for chatbot interactions with unstructured data.  
 
 ### LLM Customised ChatBot (RAG Application)
 Code: [LLM-CustomisedChatBot](https://github.com/imSrbh/LLM-CustomisedChatBot)  
@@ -65,20 +65,16 @@ Repo: [TLJH_Docker](https://github.com/imSrbh/TLJH_Docker.git)
 Code: [RecordMatching](https://github.com/imSrbh/RecordMatching)  
 • Patient and entity record matching system for Hospital and Retail domains.  
 
-### Kailash Hospital Website
-Code: [kailash-hospital-website](https://github.com/imSrbh/kailash-hospital-website)  
-• Official website for Kailash Multi Speciality Hospital & E.N.T. Center, Banda, Uttar Pradesh.  
-
 ___
 
-## Publication
+## Publications
 
 ### Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN
-*International Conference on DSMLAI, Windhoek, Namibia (Aug 2021)*  
+*International Conference on DSMLAI, Windhoek, Namibia (Aug 2022)* — Co-Author  
 • Developed methods to automatically generate text-based reports for medical images, helping medical professionals generate reports more precisely and in less time.  
 
 ### Affordable AI at the Edge on NVIDIA's Jetson Ecosystem
-*Major Project Thesis, IIIT Naya Raipur (July 2020)*  
-• NVIDIA's End-to-End Tech stack for Intelligent Video Analytics on Jetson Devices. Transfer learning toolkit for training and deploying models with Deepstream.  
+*Major Project Thesis, IIIT Naya Raipur (July 2020)* — Author  
+• NVIDIA's End-to-End Tech stack for Intelligent Video Analytics on Jetson Devices. Transfer learning toolkit for training and deploying models with Deepstream. Included NVIDIA's plugin (NvDS) in the pipeline.  
 
 ___

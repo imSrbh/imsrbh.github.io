@@ -1,83 +1,65 @@
 ---
 layout: page
 title: 
-subtitle: Senior Data Scientist @ Deloitte | ML Engineer | GenAI Engineer
+subtitle: Senior Consultant @ Deloitte | AIML Application Developer | GenAI
 ---
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am working as a **Senior Data Scientist @ Deloitte, Bangalore**.
+I am working as a **Senior Consultant @ Deloitte, Bangalore**.
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
-- AI/ML Engineer with 6+ years of experience building end-to-end machine learning and Generative AI solutions for enterprise applications.  
-- Specialized in developing GenAI RAG engines for enterprise search, incorporating Knowledge Graphs and Vector Databases for enhanced performance with OpenAI/Gemini APIs and open-source LLMs, employing Prompt Engineering best practices.  
-- Proficient in customizing frameworks like llama-index and langchain, and utilizing techniques like PEFT, qLORA for finetuning open-source LLMs.  
-- Hands-on experience in MLOps, building scalable ML platforms, and developing Intelligent Video Analytics applications on NVIDIA's technology stack.  
-- Strong background in Deep Learning, Computer Vision, and deploying AI solutions on cloud (GCP, AWS) and edge devices.  
+
+- Experienced AIML Application Developer with 5+ years of expertise in cutting-edge AI technologies, skilled in end-to-end development and deployment with strong hands-on experience across GenAI, Computer Vision, and ML infrastructure.  
+- Specialized in developing end-to-end GenAI RAG engines and Document Processing pipelines for enterprise applications, incorporating Knowledge Graphs, Vector Databases, and NLP techniques with OpenAI/Gemini APIs and open-source LLMs, employing Prompt Engineering best practices.  
+- Proficient in ML model optimization and production deployment — including LLM fine-tuning, Triton Inference Server optimization, model distillation/quantization, and scalable inference pipelines on cloud-native platforms.  
+- Hands-on experience in developing Intelligent Video Analytics applications and building production-grade services solving complex computer vision and machine learning problems with NVIDIA's technology stack.  
 
 
 ## Research Interests  
 - Generative AI & LLM Application Development
-- Machine Learning & MLOps
+- ML Model Optimization & Inference Serving
 - Intelligent Video Analytics
 - Deep Learning and Computer Vision
   
 ### Work Experience
 ---
-- **Deloitte (Senior Data Scientist), Bangalore** *(Present)*  
-    - Working on cutting-edge AI/ML and GenAI solutions for enterprise clients.  
-    - Developing and deploying large-scale machine learning models and Generative AI applications.  
+- **Deloitte (Senior Consultant), Bangalore** *(Aug 2024 — Present)*  
+    - **Catalog Content Quality Scoring** (Retail Client, Apr 2025 — Present): Developing new features and resolving production bugs for a Catalog Content Quality Scoring system — highly impactful for search capability enhancement. Owned end-to-end deployment of scoring services and implemented NLP models inference optimization using **Triton Inference Server**. Worked on **Image Quality Scoring Service** and **Content Mismatch Scoring Service** end-to-end, including model building, Triton deployment, and performance benchmarking. Built end-to-end backend pipelines and deployed on cloud-native platform.  
+    - **Document Processing & RAG System** (Tire Manufacturing Client, Sep 2024 — Mar 2025): Developed and refined FastAPI-based backend services for an advanced Document Processing and RAG system, delivering key services including UserService, FileUpload, S3 Monitoring/Ingestion, Chat, and Feedback. Integrated NLP techniques — keyword extraction, semantic chunking, and advanced evaluation metrics — to automate extraction, indexing, and summarization of diverse departmental documents. Stabilized system through UAT and accelerated production readiness.  
+    - Created two capability showcase POCs for a GenAI chatbot service handling unstructured documents.  
 
-- **JKTech (AI/ML Engineer - Senior Consultant), Bangalore** *(Jan 2023 - 2024)*  
-    - [JIVA-EKE](https://jktech.com/jiva/): Developed End-to-End GenAI RAG engines for enterprise search applications on structured and unstructured data, utilizing llama-index agents, tools, and retrievers, integrated with Knowledge Graphs and VectorDBs.
-    - JEKA: Developed a Persona-based RAG platform leveraging Prompt engineering techniques along with OpenAI APIs and Open Source LLMs for context-aware responses.
+- **JK Tech (Senior Consultant - Data Science), Bangalore** *(Jan 2023 — Jul 2024)*  
+    - [JIVA-EKE](https://jktech.com/jiva/): Developing End-to-End GenAI RAG engines for enterprise search applications on structured and unstructured data, utilizing llama-index agents, tools, and retrievers, integrated with Knowledge Graphs and VectorDBs.  
+    - JEKA: Developed a Persona-based RAG platform leveraging Prompt engineering techniques along with OpenAI APIs and Open Source LLMs for context-aware responses.  
     - JARVIS: An accelerated ML development platform based on ClearML, ensuring faster ROI for AIML projects.  
-  
+    - Leading the LLM R&D Group for exploring latest GenAI activities.  
 
-- **Mavenir (Member of Technical Staff I - R&D), Bangalore** *(Apr 2021 - Jan 2023)*  
-    - [IVA Platform](https://www.mavenir.com/portfolio/mavedge/intelligent-video-analytics-iva/): Played a pivotal role in developing the AI-backend for an End-to-End IVA Platform built on NVIDIA's technology stack, writing DeepStream Python applications to address object detection challenges.  
+- **Mavenir (R&D Engineer - IVA), Bangalore** *(Apr 2021 — Jan 2023)*  
+    - [IVA Platform](https://www.mavenir.com/portfolio/mavedge/intelligent-video-analytics-iva/): Played a pivotal role in developing the AI-backend for an IVA Platform built on NVIDIA's technology stack, writing DeepStream Python applications to address object detection challenges and enhance video analytics.  
     - Conducted model training with custom data using Transfer Learning (TAO) for DetectNetV2, YoloV4, SSD, and Darknet architectures.  
 
+- **Euclid Innovations (AI Software Developer), Hyderabad** *(Jan 2021 — Apr 2021)*  
+    - Worked on end-to-end Dockerization of the project, researching cutting-edge technology by NVIDIA and Facebook, building POCs and working with DeepStream on high-end dGPU systems.  
+    - Achieved latency reduction by implementing H.264 encoding of inference frames from JPEG frames and optimizing the existing pipeline.  
 
-- **Euclid Innovations (Software Developer - AI), Hyderabad** *(Jan 2021 - Apr 2021)*  
-    - [CAML](https://caml.live/): Worked with AI backend team to build a Customizable, plug-and-play Computer Vision platform providing real-time spatial, behavior, and cognitive analytics.  
-    - End-to-end Dockerization of the project, working with Deepstream on high-end dGPU systems.   
-    - Achieved latency reduction by implementing H.264 encoding and optimizing inference pipelines.   
-
-
-- **SmartCow.ai (IVA Engineer), Hyderabad** *(Jan 2020 - Oct 2020)*  
-    - Developed IVA Applications on a large scale integrated with AWS cloud services.
-    - Worked with CUDA, GStreamer, OpenCV, TensorRT, NVIDIA Jetson Platform, and Deepstream.
-    - Written technical blogs on [Medium](https://medium.com/@Smartcow_ai/leveraging-nvidias-nvdsanalytics-plugin-for-entry-exit-people-count-8f2d19217746).
-    - Thesis: **"Affordable AI at the Edge on NVIDIA's Jetson Ecosystem"**  
+- **Smartcow.ai (IVA Engineer), Hyderabad** *(Jan 2020 — Oct 2020)*  
+    - Collaborated within a team to develop multiple Intelligent Video Analytics applications for Jetson devices and dGPUs.  
+    - Demonstrated proficiency in GStreamer, glib, OpenCV, CUDA, TensorRT, and nvprof to optimize video processing and analysis.  
 
 
-- **CodeVector Labs LLP (AI Research Intern), Raipur** *(2019)*  
-    - Worked on Object Detection (YOLO), Segmentation (R-CNN, Mask R-CNN) for AI in Sports applications.
-    - Achieved **[Star of the Month Award - October 2019](https://www.linkedin.com/posts/codevector-ai-labs_cvlabs-ai-activity-6591922751697707008-xnmb)** for excellent work delivery.  
+## Publications
+
+* **Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN** — International Conference on DSMLAI, Windhoek, Namibia (Aug 2022)  
+* **Affordable AI at the Edge on NVIDIA's Jetson Ecosystem** — Major Project Thesis, IIIT Naya Raipur (July 2020)  
 
 
-- **Image Processing Lab (CV Research Intern), MNNIT Allahabad**  
-    - Implemented traditional computer vision algorithms and object detection research.  
-  
+## Technical Skills
 
-- **National Health Mission Chhattisgarh (Android Development Intern), Naya Raipur**  
-    - Developed a health awareness Android app *Hamar Swasthya* for the *Sanchar Kranti Yojana* government scheme.  
-
-
-## Publication
-* **Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN** — International Conference on DSMLAI, Windhoek, Namibia (Aug 2021)
-
-
-## Skills
-
-* **Programming Languages:** Python, C/C++, Shell, CUDA
-* **GenAI / LLM:** Langchain, Llama-index, RAG, Prompt Engineering, PEFT, qLORA, OpenAI APIs, Gemini APIs, Transformers, TRL, AutoTrain
-* **ML / DL Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn, XGBoost
-* **Computer Vision:** OpenCV, NVIDIA Deepstream SDK, TAO/TLT, TensorRT, GStreamer
-* **Databases:** Neo4j, Nebula (Graph), ChromaDB, Pinecone, SingleStore, Postgres (Vector)
-* **Tools & DevOps:** Docker, Kubernetes, Git, FastAPI, Streamlit
-* **Cloud Platforms:** GCP (Vertex AI), AWS
-* **MLOps:** Vertex AI, ClearML, MLflow
+* **Languages:** Python, C/C++, Bash  
+* **ML & AI:** PyTorch, TensorFlow, Transformers, BERT, LLMs, PEFT/qLoRA, Model Distillation/Quantization, ONNX/TensorRT, Computer Vision, Object Detection (YOLOv4/v8, DetectNetV2, SSD)  
+* **MLOps & Serving:** Triton Inference Server, TorchServe, ClearML, MLflow, Docker, FastAPI, REST API  
+* **GenAI & RAG:** Langchain, llama-index, VectorDBs, Knowledge GraphDBs, OpenAI/Gemini APIs, Prompt Engineering, Semantic Chunking  
+* **Infrastructure:** NVIDIA DeepStream, TLT/TAO, GStreamer, CUDA, NVIDIA Jetson, GCP, AWS, Cloud-native Deployment  
 
 ## Scholastic Achievements
 * 2019 Industry Academia Meet-2019, IIITNR (Secured Runner UP position)
