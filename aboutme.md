@@ -24,7 +24,12 @@ I have completed B.Tech in the dept. of Computer Science And Engineering @ **III
 ### Work Experience
 ---
 - **Deloitte (Senior Consultant), Bangalore** *(Aug 2024 — Present)*  
-    - **Catalog Content Quality Scoring** (Retail Client, Apr 2025 — Present): Developing new features and resolving production bugs for a Catalog Content Quality Scoring system — highly impactful for search capability enhancement. Owned end-to-end deployment of scoring services and implemented NLP models inference optimization using **Triton Inference Server**. Worked on **Image Quality Scoring Service** and **Content Mismatch Scoring Service** end-to-end, including model building, Triton deployment, and performance benchmarking. Built end-to-end backend pipelines and deployed on cloud-native platform.  
+    - **Retail Client Staffing** ( Apr 2025 – Present): Contributing to feature development and production support for a
+large-scale ml pipeline with direct impact on listing and search relevance. Implemented NLP model inference optimization
+on Triton Inference Server; Worked on Computer Vision and NLP model development, Triton Inference Server
+deployment, and performance benchmarking. Built and maintained backend pipelines on cloud-native infrastructure.
+• Created two capability showcase POCs for a GenAI chatbot service handling unstructured documents; supporting other
+stakeholders across the team.  
     - **Document Processing & RAG System** (Tire Manufacturing Client, Sep 2024 — Mar 2025): Developed and refined FastAPI-based backend services for an advanced Document Processing and RAG system, delivering key services including UserService, FileUpload, S3 Monitoring/Ingestion, Chat, and Feedback. Integrated NLP techniques — keyword extraction, semantic chunking, and advanced evaluation metrics — to automate extraction, indexing, and summarization of diverse departmental documents. Stabilized system through UAT and accelerated production readiness.  
     - Created two capability showcase POCs for a GenAI chatbot service handling unstructured documents.  
 
