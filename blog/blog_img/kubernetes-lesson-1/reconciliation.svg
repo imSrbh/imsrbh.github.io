@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
+  <title id="title">Kubernetes reconciliation example</title>
+  <desc id="desc">Three Pods are requested. One is deleted. The ReplicaSet notices only two remain and attempts to create a replacement.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker></defs>
+  <rect width="900" height="310" rx="20" fill="#f8fafc"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#0f172a">Reconciliation: keeping the desired state</text>
+  <rect x="25" y="85" width="190" height="140" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="120" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#1e40af">1. Desired state</text>
+  <text x="120" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#334155">3 Pods requested</text>
+  <text x="120" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#2563eb">●  ●  ●</text>
+  <rect x="245" y="85" width="190" height="140" rx="12" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="340" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#9a3412">2. Pod deleted</text>
+  <text x="340" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#334155">2 Pods remain</text>
+  <text x="340" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#ea580c">●  ●  ×</text>
+  <rect x="465" y="85" width="190" height="140" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+  <text x="560" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#5b21b6">3. Controller acts</text>
+  <text x="560" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#334155">ReplicaSet attempts</text>
+  <text x="560" y="173" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#334155">to create a Pod</text>
+  <rect x="685" y="85" width="190" height="140" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <text x="780" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#166534">4. Recovered</text>
+  <text x="780" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#334155">3 Pods again</text>
+  <text x="780" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#16a34a">●  ●  ●</text>
+  <path d="M 215 155 L 242 155 M 435 155 L 462 155 M 655 155 L 682 155" fill="none" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">If scheduling and startup succeed, the replacement becomes ready.</text>
+</svg>

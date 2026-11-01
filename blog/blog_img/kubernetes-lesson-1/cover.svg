@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Kubernetes Learning Journey: Lesson 1</title>
+  <desc id="desc">An illustration of three application containers connected to a Kubernetes cluster.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <circle cx="1080" cy="30" r="260" fill="#60a5fa" opacity="0.08"/>
+  <circle cx="720" cy="630" r="235" fill="#38bdf8" opacity="0.06"/>
+  <rect x="78" y="92" width="200" height="40" rx="20" fill="#2563eb"/>
+  <text x="178" y="119" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">LESSON 01</text>
+  <text x="78" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="64" font-weight="700">Kubernetes</text>
+  <text x="78" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="64" font-weight="700">Learning Journey</text>
+  <text x="80" y="360" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="25">From containers to a self-healing application</text>
+  <text x="80" y="520" fill="#93c5fd" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="1">EXPLORE  ·  BUILD  ·  LEARN</text>
+  <rect x="765" y="151" width="325" height="320" rx="28" fill="#0f172a" fill-opacity="0.45" stroke="#60a5fa" stroke-width="3"/>
+  <rect x="844" y="182" width="168" height="64" rx="14" fill="url(#panel)"/>
+  <text x="928" y="221" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700">CLUSTER</text>
+  <path d="M928 246v65 M828 311h200 M828 311v30 M928 311v30 M1028 311v30" fill="none" stroke="#93c5fd" stroke-width="5" stroke-linecap="round"/>
+  <rect x="790" y="341" width="76" height="76" rx="14" fill="#1d4ed8" stroke="#93c5fd" stroke-width="2"/>
+  <rect x="890" y="341" width="76" height="76" rx="14" fill="#1d4ed8" stroke="#93c5fd" stroke-width="2"/>
+  <rect x="990" y="341" width="76" height="76" rx="14" fill="#1d4ed8" stroke="#93c5fd" stroke-width="2"/>
+  <text x="828" y="386" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">POD</text>
+  <text x="928" y="386" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">POD</text>
+  <text x="1028" y="386" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700">POD</text>
+</svg>
