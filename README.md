@@ -1,5 +1,9 @@
 # Beautiful Jekyll
 
+This portfolio uses a custom design on top of Beautiful Jekyll. The homepage is in `index.html`, shared styles are in `css/portfolio.css`, and the light/dark preference is handled by `js/theme.js`. Blog posts remain in `blog/_posts`.
+
+The existing GitHub Pages dependency lockfile is old; local `bundle install` currently cannot resolve the locked `octokit` version. Refreshing the dependency stack is separate from the visual redesign. The original theme documentation follows.
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 

@@ -9,7 +9,7 @@ Hey there! I'm Saurabh Kumar Singh 😊.
 I am working as a **Senior Consultant @ Deloitte, Bangalore**.
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
 
-- Experienced AIML Application Developer with 5+ years of expertise in cutting-edge AI technologies, skilled in end-to-end development and deployment with strong hands-on experience across GenAI, Computer Vision, and ML infrastructure.  
+- Experienced AIML Application Developer with 6+ years of expertise in cutting-edge AI technologies, skilled in end-to-end development and deployment with strong hands-on experience across GenAI, Computer Vision, and ML infrastructure.  
 - Specialized in developing end-to-end GenAI RAG engines and Document Processing pipelines for enterprise applications, incorporating Knowledge Graphs, Vector Databases, and NLP techniques with OpenAI/Gemini APIs and open-source LLMs, employing Prompt Engineering best practices.  
 - Proficient in ML model optimization and production deployment — including LLM fine-tuning, Triton Inference Server optimization, model distillation/quantization, and scalable inference pipelines on cloud-native platforms.  
 - Hands-on experience in developing Intelligent Video Analytics applications and building production-grade services solving complex computer vision and machine learning problems with NVIDIA's technology stack.  

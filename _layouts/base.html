@@ -19,7 +19,8 @@ common-js:
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
   {% include head.html %}
 
-  <body>
+  <body{% if page.body-class %} class="{{ page.body-class | escape }}"{% endif %}>
+    <a class="skip-link" href="#main-content">Skip to content</a>
 
     {% include gtm_body.html %}
   

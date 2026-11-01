@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: A collection of my AI/ML and GenAI projects
+body-class: projects-page
 comments: true
 carbonads: true
 ---
