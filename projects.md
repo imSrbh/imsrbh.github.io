@@ -75,7 +75,7 @@ ___
 
 ## Publications
 
-### Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN
+### [Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN](https://dl.acm.org/doi/10.1145/3484824.3484918)
 *International Conference on DSMLAI, Windhoek, Namibia (Aug 2022)* — Co-Author  
 • Developed methods to automatically generate text-based reports for medical images, helping medical professionals generate reports more precisely and in less time.  
 

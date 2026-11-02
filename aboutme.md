@@ -54,7 +54,7 @@ stakeholders across the team.
 
 ## Publications
 
-* **Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN** — International Conference on DSMLAI, Windhoek, Namibia (Aug 2022)  
+* **[Automatic Generation of Chest X-Ray Medical Imaging Reports using LSTM-CNN](https://dl.acm.org/doi/10.1145/3484824.3484918)** — International Conference on DSMLAI, Windhoek, Namibia (Aug 2022)  
 * **Affordable AI at the Edge on NVIDIA's Jetson Ecosystem** — Major Project Thesis, IIIT Naya Raipur (July 2020)  
 
 
