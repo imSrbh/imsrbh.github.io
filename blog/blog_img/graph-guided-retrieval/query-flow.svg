@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 860" role="img" aria-labelledby="title desc">
+  <title id="title">From a mixed-source question to an evidence-backed answer</title>
+  <desc id="desc">Six steps: resolve reporting dates and metric, retrieve schema, query returned units, retrieve policies for the resulting products, verify applicability, and synthesize with SQL and citations. Missing evidence leads to an explicit limitation rather than a guessed answer.</desc>
+  <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#64748b"/></marker></defs>
+  <rect width="960" height="860" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif">
+    <text x="480" y="49" text-anchor="middle" font-size="29" font-weight="700" fill="#0f172a">One question, two kinds of evidence</text>
+    <text x="480" y="84" text-anchor="middle" font-size="20" fill="#475569">Most returned products last quarter + applicable return conditions</text>
+    <g stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M480 202V229"/><path d="M480 312V339"/><path d="M480 422V449"/><path d="M480 532V559"/><path d="M480 642V669"/></g>
+    <g stroke="#cbd5e1" stroke-width="2" fill="#fff"><rect x="90" y="120" width="780" height="82" rx="12"/><rect x="90" y="230" width="780" height="82" rx="12"/><rect x="90" y="340" width="780" height="82" rx="12"/><rect x="90" y="450" width="780" height="82" rx="12"/><rect x="90" y="560" width="780" height="82" rx="12"/><rect x="90" y="670" width="780" height="82" rx="12"/></g>
+    <g fill="#0369a1" font-size="30" font-weight="700"><text x="120" y="170">01</text><text x="120" y="280">02</text><text x="120" y="390">03</text><text x="120" y="500">04</text><text x="120" y="610">05</text><text x="120" y="720">06</text></g>
+    <g fill="#0f172a" font-size="23" font-weight="700"><text x="190" y="151">Resolve dates and metric</text><text x="190" y="261">Retrieve relevant schema</text><text x="190" y="371">Run a bounded, read-only SQL query</text><text x="190" y="481">Retrieve policy passages</text><text x="190" y="591">Check scope and applicability</text><text x="190" y="701">Synthesize an inspectable answer</text></g>
+    <g fill="#475569" font-size="19"><text x="190" y="181">Calendar quarter; returned units, not return rate</text><text x="190" y="291">Include the tables and join paths required by the question</text><text x="190" y="401">Rank products using the original relational records</text><text x="190" y="511">Use product context and preserve source references</text><text x="190" y="621">Align category, policy dates, region, and exceptions</text><text x="190" y="731">Separate database facts, document evidence, and unknowns</text></g>
+    <text x="480" y="812" text-anchor="middle" fill="#0f766e" font-size="21" font-weight="700">Missing evidence? State the limitation instead of filling the gap.</text>
+  </g>
+</svg>

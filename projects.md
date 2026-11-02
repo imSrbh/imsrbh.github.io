@@ -12,6 +12,11 @@ ___
 
 ## GenAI & LLM Projects
 
+### Knowledge Graph–Guided Retrieval Across SQL and Documents
+• Combines database schema graphs, document retrieval, and agentic tool selection to answer questions across structured and unstructured data.<br>
+• Technical walkthrough covers graph-guided SQL, source references, application architecture, deployment considerations, and evaluation.<br>
+[Read the technical walkthrough →]({% post_url 2024-06-03-beyond-vector-search-sql-documents-knowledge-graphs %})
+
 ### Context Aware Chatbot with Unstructured/Structured Data
 Code: [Custom AI ChatBot](https://github.com/imSrbh/CustomAICHatBot)  
 • Utilized SQLAlchemy as the data connector for both SQL and BigQuery databases, enabling the generation of SQL queries for given natural language input queries, leveraging llama-index capabilities.  

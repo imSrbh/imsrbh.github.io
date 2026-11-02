@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 850" role="img" aria-labelledby="title desc">
+  <title id="title">Graph-guided retrieval architecture</title>
+  <desc id="desc">Ingestion converts database schema and document relationships into retrieval indexes. A question retrieves context for tool selection. SQL tools query the original database, document tools use source passages, and synthesis returns an answer with evidence.</desc>
+  <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#475569"/></marker></defs>
+  <rect width="1000" height="850" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="48" font-size="30" font-weight="700" fill="#0f172a">Two workflows, complementary sources</text>
+    <text x="500" y="92" font-size="19" font-weight="700" fill="#0369a1">INGESTION</text>
+    <g stroke="#475569" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M250 180V214"/><path d="M750 180V214"/><path d="M250 282V310H500V339"/><path d="M750 282V310H500"/><path d="M500 407V466"/><path d="M270 500H359"/><path d="M640 500H689"/><path d="M795 534V572H250V609"/><path d="M795 572H750V609"/><path d="M250 701V740H500V765"/><path d="M750 701V740H500"/></g>
+    <g stroke="#7dd3fc" stroke-width="2" fill="#e0f2fe"><rect x="75" y="114" width="350" height="66" rx="12"/><rect x="575" y="114" width="350" height="66" rx="12"/><rect x="75" y="216" width="350" height="66" rx="12"/><rect x="575" y="216" width="350" height="66" rx="12"/><rect x="280" y="341" width="440" height="66" rx="12"/></g>
+    <g fill="#0f172a" font-size="22"><text x="250" y="155">Database schema metadata</text><text x="750" y="155">Documents + source metadata</text><text x="250" y="257">Tables, columns, relationships</text><text x="750" y="257">Chunking + relationship extraction</text><text x="500" y="382">Graph + embedding indexes</text></g>
+    <text x="790" y="445" font-size="19" font-weight="700" fill="#0f766e">QUESTION ANSWERING</text>
+    <g fill="#ccfbf1" stroke="#5eead4" stroke-width="2"><rect x="60" y="468" width="210" height="66" rx="12"/><rect x="360" y="468" width="280" height="66" rx="12"/><rect x="690" y="468" width="230" height="66" rx="12"/><rect x="70" y="611" width="360" height="90" rx="12"/><rect x="570" y="611" width="360" height="90" rx="12"/></g>
+    <g fill="#0f172a" font-size="22"><text x="165" y="509">User question</text><text x="500" y="509">Retrieve context</text><text x="805" y="509">Select tools</text><text x="250" y="646">SQL tool</text><text x="750" y="646">Document tool</text></g>
+    <g fill="#334155" font-size="19"><text x="250" y="677">Query original relational records</text><text x="750" y="677">Use retrieved source passages</text></g>
+    <rect x="210" y="767" width="580" height="58" rx="12" fill="#0f172a"/>
+    <text x="500" y="804" font-size="22" fill="#fff">Synthesize answer + SQL + document references</text>
+  </g>
+</svg>
